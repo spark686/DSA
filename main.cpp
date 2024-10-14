@@ -38,7 +38,8 @@ int main() {
         test.print();
         cout << endl << endl;
         // test.selectionSort();
-        test.insertionSort();
+        // test.insertionSort();
+        test.heapSort();
         cout << "After the selection sorting: ";
         test.print();
         cout << "-------------------------------------------------------------------------" << endl << endl << endl;
